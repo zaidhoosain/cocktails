@@ -1,6 +1,6 @@
 /* cocktails — offline cache. The build stamps a new version into this file whenever the book changes,
    so the phone notices, downloads the new edition in the background and offers it on the next open. */
-const VERSION = 'f5cb3da98734';
+const VERSION = '90248ea2fdac';
 const CACHE = 'cocktails-' + VERSION;
 const FILES = ["./", "./index.html", "./manifest.webmanifest", "./icon-180.png", "./icon-512.png"];
 
